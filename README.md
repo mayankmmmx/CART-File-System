@@ -1,4 +1,4 @@
-# CMPSC-311
+# CART File System
 A CART memory system built in C.
 
 Assign 2:
